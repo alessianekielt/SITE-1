@@ -32,3 +32,6 @@
     display: grid;
     grid-column: 30%, 30%, 30%;
 }
+.foto{
+    width: 30%;
+}
