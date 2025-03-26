@@ -28,10 +28,6 @@
     font-size: 18px;
     color: #4d543d;
 }
-.primeira-linha{
-    display: grid;
-    grid-column: 30%, 30%, 30%;
-}
 .foto{
     width: 30%;
 }
