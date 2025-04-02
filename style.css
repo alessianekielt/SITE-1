@@ -34,3 +34,7 @@
 .topicos{
     text-decoration: none;
 }
+.texto-descricao{
+    width: 70%;
+    text-align: right;
+}
