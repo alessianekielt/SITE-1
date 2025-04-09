@@ -34,9 +34,6 @@
     border-radius: 10px;
     height: 500px;
 }
-.topicos{
-    text-decoration: none;
-}
 .texto-descricao{
     font-size: 18px;
     display: inline-block;
@@ -47,14 +44,7 @@
     height: 300px;
     display: inline-block;
 }
-.li{
-    text-decoration: none;
-}
 .destino{
     display: flex;
     align-items: center;
-}
-.a{
-    text-decoration: none;
-    list-style-type: none;
 }
