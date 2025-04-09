@@ -48,6 +48,8 @@
     display: flex;
     align-items: center;
 }
-.li{
+.ul{
     text-decoration: none;
+    list-style-type: none;
+    display: flex;
 }
