@@ -35,6 +35,11 @@
     text-decoration: none;
 }
 .texto-descricao{
-    width: 70%;
     text-align: right;
+    font-size: 18px;
+}
+.foto-explorar{
+    text-align: left;
+    width: 150px;
+    height: 150px;
 }
