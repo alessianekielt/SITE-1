@@ -52,7 +52,7 @@
 .topicos{
     text-decoration: none;
     list-style-type: none;
-    display: grid;
-    width: 20%;
+    display: flex;
+    width: 80%%;
     text-align: right;
 }
