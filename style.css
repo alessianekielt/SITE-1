@@ -51,7 +51,7 @@
 .ul{
     text-decoration: none;
     list-style-type: none;
-    display: flex;
+    display: inline-block;
     width: 20%;
     text-align: right;
 }
