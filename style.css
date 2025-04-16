@@ -51,6 +51,7 @@
 .ul{
     text-decoration: none;
     list-style-type: none;
-    display: grid;
-    flex-wrap: wrap;
+    display: flex;
+    width: 20%;
+    text-align: right;
 }
