@@ -50,8 +50,9 @@
 }
 
 .topicos{
-    text-decoration: none;
-    list-style-type: none;
-    display: flex;
+    display: none;
+    position: absolute;
+    top: 100%;
+    width: 60vw;
 }
-.tabs li:before { content: none }
+
