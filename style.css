@@ -50,8 +50,7 @@
 }
 
 .topicos{
-    display: none;
+    display: flex;
     position: absolute;
-    width: 60vw;
 }
 
