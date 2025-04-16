@@ -62,6 +62,7 @@
 }
 .botao-link{
     text-decoration: none;
+    display: flex;
     width: 30%;
     text-align: right;
 }
