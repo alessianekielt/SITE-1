@@ -53,14 +53,14 @@
     display: flex;
     position: absolute;
     padding: 1em;
+    list-style-type: none;
 }
 .botao-link{
     text-decoration: none;
-    display: grid;
+    display: flex;
     width: 30%;
     text-align: right;
     color: #4d543d;
     font-size: 24px;
-    flex-wrap: wrap;
 }
 
