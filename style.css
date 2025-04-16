@@ -54,3 +54,4 @@
     list-style-type: none;
     display: flex;
 }
+.tabs li:before { content: none }
