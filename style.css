@@ -52,13 +52,7 @@
 .topicos{
     display: flex;
     position: absolute;
-    list-style-type: none;
-    text-decoration: none;
-}
-.container{
-    text-decoration: none;
-    text-align: right;
-    width: 20%;
+    padding: 1em;
 }
 .botao-link{
     text-decoration: none;
