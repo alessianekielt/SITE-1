@@ -57,5 +57,7 @@
 }
 .container{
     text-decoration: none;
+    text-align: right;
+    width: 20%;
 }
 
