@@ -57,7 +57,7 @@
     list-style-type: none; 
     flex-wrap: wrap;
     width: 100%;
-    text-align: right;
+    text-align: left;
 }
 .botao-link{
     text-decoration: none;
@@ -67,5 +67,6 @@
     padding-left: 2em;
     padding-right: 2em;
     background-color: #4d543d;
+    padding: 1em;
 }
 
